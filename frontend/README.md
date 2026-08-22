@@ -1,7 +1,4 @@
 
-  # Create attractive home page
-
-  This is a code bundle for Create attractive home page. The original project is available at https://www.figma.com/design/7oScrOQvofKbEY6OZYhzTk/Create-attractive-home-page.
 
   ## Running the code
 
