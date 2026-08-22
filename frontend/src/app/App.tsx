@@ -109,7 +109,7 @@ function AppShell({ onLogout }: { onLogout: () => void }) {
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
-// ROOT
+// ROOT part
 // ══════════════════════════════════════════════════════════════════════════════
 export default function App() {
   const [auth, setAuth] = useState(false);
